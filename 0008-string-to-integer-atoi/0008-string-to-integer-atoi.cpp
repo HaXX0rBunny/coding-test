@@ -10,7 +10,7 @@ public:
             i++;
         }
         long long result = 0;
-     while (i < n && isdigit(s[i])) {
+           while (i < n && isdigit(s[i])) {
             int digit = s[i] - '0';
             
             // Check BEFORE potential overflow
@@ -23,4 +23,5 @@ public:
         }
         
         return static_cast<int>(result * sign);
+    }
 };
