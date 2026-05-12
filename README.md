@@ -21,4 +21,16 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HaXX0rBunny/coding-test/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/HaXX0rBunny/coding-test/tree/main/0013-roman-to-integer/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/HaXX0rBunny/coding-test/tree/main/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/HaXX0rBunny/coding-test/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
