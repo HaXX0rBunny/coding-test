@@ -7,11 +7,13 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/HaXX0rBunny/coding-test/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/HaXX0rBunny/coding-test/tree/main/0015-3sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HaXX0rBunny/coding-test/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/HaXX0rBunny/coding-test/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/HaXX0rBunny/coding-test/tree/main/0015-3sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HaXX0rBunny/coding-test/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -49,4 +51,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/HaXX0rBunny/coding-test/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/HaXX0rBunny/coding-test/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
